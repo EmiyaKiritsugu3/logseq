@@ -32,7 +32,7 @@
     "electron-squirrel-startup": "1.0.1",
     "electron-window-state": "5.0.3",
     "extract-zip": "2.0.1",
-    "fastify": "5.8.2",
+    "fastify": "5.8.5",
     "fs-extra": "^11.3.4",
     "https-proxy-agent": "8.0.0",
     "node-fetch": "3.3.2",
@@ -52,7 +52,7 @@
     "@electron-forge/maker-wix": "^7.8.3",
     "@electron-forge/maker-zip": "^7.8.3",
     "@electron/rebuild": "4.0.1",
-    "electron": "38.4.0",
+    "electron": "39.8.5",
     "electron-builder": "26.0.12",
     "electron-devtools-installer": "4.0.0",
     "electron-forge-maker-appimage": "https://github.com/logseq/electron-forge-maker-appimage.git"
